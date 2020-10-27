@@ -29,6 +29,10 @@ Below we can see the summary t-test and individual t-test for each lot vs the po
 ![lot2_t-test](https://raw.githubusercontent.com/si1ver1/MechaCar_Statistical_Analysis/main/images/lot2_t-test.jpg)
 ![lot3_t-test](https://raw.githubusercontent.com/si1ver1/MechaCar_Statistical_Analysis/main/images/lot3_t-test.jpg)
 ## Study Design: MechaCar vs Competition
+A proposed statistical study is the 0 to 60 mph acceleration rate for the MechaCar vs Competition.
 
+Metrics to test: weight of the vehicles and the 0 to 60 time
 
-### Summary
+Our null hypothesis: vehicle weight does have an effect on the 0 to 60 time for the Mecha Car vs the Competition
+
+For this we would run a 2 sample t-test using data from the MechaCar and data from the Competition. To do so we would need the 0 to 60 time and weight for all the cars measured from both sides.
